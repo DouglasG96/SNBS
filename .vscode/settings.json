@@ -1,0 +1,11 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d83319dd-5939-4375-997d-983ff066bbac/resourceGroups/PreEspecialidad2021/providers/Microsoft.Web/sites/SNBS",
+    "appService.deploySubpath": ".",
+    "staticWebApps.appSubpath": "/",
+    "staticWebApps.apiSubpath": "",
+    "staticWebApps.outputSubpath": ""
+}
